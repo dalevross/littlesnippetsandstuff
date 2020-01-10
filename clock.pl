@@ -1,6 +1,4 @@
 #!/usr/bin/perl -w
-use strict
-
 
                     $i=$l=0;
         $w9=(localtime)[2];if($w9>11){$w9
