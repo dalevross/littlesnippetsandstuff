@@ -1,4 +1,14 @@
 #!/usr/bin/perl -w
+##############################################################
+#  Script     : clock
+#  Author     : Elliot https://www.perlmonks.org/?node_id=118546
+#  Date       : 10/12/2001
+#  Last Edited: 01/10/2020, dalevross 
+#  Description: Perl Script with grandfather clock layout that generates an analog clock look.
+##############################################################
+# Purpose:
+# - Just another perl hacker, man.
+##############################################################
 
                     $i=$l=0;
         $w9=(localtime)[2];if($w9>11){$w9
